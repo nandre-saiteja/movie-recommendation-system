@@ -24,6 +24,9 @@ Scikit-learn: Provides tools for vectorization and similarity calculation.
 
 Numpy: Used for numerical operations.
 
+DEMO:
+
+
 
 ![mov_rec_sys_img_1](https://github.com/user-attachments/assets/b0ee2c61-9593-4563-af90-0e46817f350e)
 
